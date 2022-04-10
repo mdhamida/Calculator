@@ -1,0 +1,46 @@
+body{
+    background-image: url(./bg3.jfif);
+    
+}
+
+
+
+.screen{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(243, 234, 234);
+}
+
+table{
+    margin: auto;
+    margin-top: 10px;
+}
+
+input{
+    font-size: 98px;
+    height: 76px; 
+    border: 5px solid gray;
+    border-radius: 20px;
+}
+
+
+button{
+    font-size: 31px;
+    background-color: rgb(141, 139, 139);
+    width: 300px;
+    height: 70px;
+    border-radius: 20px;
+}
+.calcu{
+    display: inline-block;
+    background-color: rgb(180, 41, 48);
+    border-radius: 15px;
+ 
+
+}
+
+p{
+    text-align: center;
+    text-decoration: underline;
+    color: aliceblue;
+}
